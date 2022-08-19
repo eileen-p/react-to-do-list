@@ -8,7 +8,7 @@ A starter React project for building a simple to-do list of items
 ├── package.json      <- Package description for Yarn/NPM
 ├── src               <- Source code folder
 │   ├── App.js        <- Your app
-│   ├── index.html    <- HTML entry point
+│   ├── index.html    <- HTML entry point ("homepage" of website)
 │   └── index.js      <- React root JS (entry point)
 ├── webpack.config.js <- Webpack config file
 └── yarn.lock
